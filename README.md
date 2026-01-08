@@ -1,3 +1,7 @@
+## ScreenShot
+![Test Results](docs/test-results.png)
+
+
 # Flask-SQLAlchemy Earthquake API
 
 This project is a Flask backend API for storing and querying earthquake data.
@@ -30,6 +34,3 @@ pytest
 API Routes
 GET /earthquakes/<id>
 GET /earthquakes/magnitude/<magnitude>
-
- ## Screenshot
-![Test Results](docs/test-results.png)
