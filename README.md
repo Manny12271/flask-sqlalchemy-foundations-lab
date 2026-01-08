@@ -33,5 +33,6 @@ API Routes
 GET /earthquakes/<id>
 GET /earthquakes/magnitude/<magnitude>
 
-Screenshot
-![Test Results](docs/Test Results.png)
+
+## ScreenShot
+![Test Results](docs/Test-Results.png)
