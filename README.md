@@ -24,14 +24,12 @@ pipenv shell
 cd server
 export FLASK_APP=app.py
 export FLASK_RUN_PORT=5555
-
 Run & Test
 flask run --port 5555
 pytest
-
 API Routes
 GET /earthquakes/<id>
-GET /earthquakes/magnitude/<magnitude```
+GET /earthquakes/magnitude/<magnitude>
 
-## ScreenShot
+ ## Screenshot
 ![Test Results](docs/test-results.png)
