@@ -31,8 +31,7 @@ pytest
 
 API Routes
 GET /earthquakes/<id>
-GET /earthquakes/magnitude/<magnitude>
-
+GET /earthquakes/magnitude/<magnitude```
 
 ## ScreenShot
-![Test Results](docs/Test-Results.png)
+![Test Results](docs/test-results.png)
